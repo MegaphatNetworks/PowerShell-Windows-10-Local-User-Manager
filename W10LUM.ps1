@@ -1,3 +1,15 @@
+# # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
+# # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
+# #                                                                                                   # # 
+# #                                                                                                   # # 
+# #                                    The Windows 10 Local User Manager                              # # 
+# #                                           by Gabriel Polmar                                       # # 
+# #                                           Megaphat Networks                                       # # 
+# #                                           www.megaphat.info                                       # #
+# #                                                                                                   # # 
+# #                                                                                                   # #
+# # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+# # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
 
 Add-Type -AssemblyName PresentationFramework
 Add-Type -AssemblyName PresentationCore
